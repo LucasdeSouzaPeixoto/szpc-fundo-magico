@@ -1,7 +1,9 @@
 🪄 AI Magic Background & Code Generator
+
 Este projeto é uma ferramenta de produtividade que transforma descrições textuais em componentes visuais prontos para a web. Utilizando a potência do Google Gemini e a orquestração do n8n, o sistema gera não apenas a imagem do cenário, mas também o código HTML e CSS necessário para implementá-lo.
 
 🚀 Diferencial do Projeto
+
 Diferente de geradores de imagem comuns, esta aplicação foi desenhada para o fluxo de trabalho de um desenvolvedor Frontend.
 
 Entrada: Um conceito de design (ex: "Fundo futurista neon para um site de tecnologia").
